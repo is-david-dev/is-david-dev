@@ -23,7 +23,7 @@
 [![My Skills](https://skillicons.dev/icons?i=anaconda,androidstudio,bash,docker,figma,git,guthub,postman,vscode)](https://skillicons.dev)
 
 #### Deploy.
-[![My Skills](https://skillicons.dev/icons?i=aws,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,vercel)](https://skillicons.dev)
 
 #### Linux???
 [![My Skills](https://skillicons.dev/icons?i=kali,debian,ubuntu)](https://skillicons.dev)
