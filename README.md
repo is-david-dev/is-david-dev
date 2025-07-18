@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-#### Hi, I'm David and I focused on Mobile development, backend development and some things about IA.
+#### Hi, I'm David. I focus on mobile and backend development, and I also work with some AI-related technologies.
 
 ## Technologys.
 
@@ -20,7 +20,7 @@
 [![My Skills](https://skillicons.dev/icons?i=)](https://skillicons.dev)
 
 #### Tools.
-[![My Skills](https://skillicons.dev/icons?i=anaconda,androidstudio,bash,docker,figma,git,guthub,postman,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=anaconda,androidstudio,bash,docker,figma,git,github,postman,vscode)](https://skillicons.dev)
 
 #### Deploy.
 [![My Skills](https://skillicons.dev/icons?i=aws,vercel)](https://skillicons.dev)
